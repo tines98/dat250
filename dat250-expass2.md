@@ -7,8 +7,13 @@
 * I think I managed to do everything in this assignment but I thought the instructions were somewhat unclear.
 
 Here is the list of the tables that were created
+
 ![](/res/img/tables.png)
 
+
+
+
 Here are screenshots of the contents of the family and person tables
+
 ![](/res/img/family.png)
 ![](/res/img/person.png)
